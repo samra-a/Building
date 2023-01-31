@@ -1,6 +1,7 @@
 import interfaces.IResident;
 
 import java.time.LocalDate;
+import java.util.List;
 
 public class Bungalow extends Building implements IResident {
     private boolean centralHeating;
